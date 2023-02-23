@@ -20,6 +20,6 @@ public interface AppConstant {
 	public static String FIND_BY_EMPLOYEE_NAME_OR_ADDRESS="/findByNameOrAddress";
 	public static String FIND_BY_ADDRESS_ORDER_BY_EMP_NAME_ASC="/findByAddressOrderByNameAsc";
 	public static String FIND_BY_ADDRESS_ORDER_BY_ADDRESS_ASC="/findByAddressOrderByAddressAsc";
-	public static String FIND_BY_ADDRESS_ORDER_BY_EMP_AGE_ASC="/findByAddressOrderByAgeAsc";
+	public static String FIND_BY_ADDRESS_ORDER_BY_EMP_AGE_ASC="/findByAddressOrderByAgeAsc"
 
 }
